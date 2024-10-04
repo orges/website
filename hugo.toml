@@ -1,6 +1,7 @@
 baseURL = 'https://orgesified.com/'
 languageCode = 'en-us'
 title = 'Orges'
+defaultContentLanguage = "en"
 
 theme = "DoIt"
 
